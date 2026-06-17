@@ -1,6 +1,3 @@
-pip install nbopen
-python -m nbopen.install_win
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -16,9 +13,9 @@ python -m nbopen.install_win
 </header>
 
 <nav>
-    <a href="#about">About</a></br>
-    <a href="#services">Services</a></br>
-    <a href="#why">Why Us</a></br>
+    <a href="#about">About</a>
+    <a href="#services">Services</a>
+    <a href="#why">Why Us</a>
     <a href="#contact">Contact</a>
 </nav>
 
