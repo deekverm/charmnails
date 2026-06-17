@@ -9,7 +9,7 @@
 <body>
 
 <header>
-    <h1>💅 Glamour Nails Studio</h1>
+    <h1>💅 Charms Nails Studio</h1>
     <p>Beauty • Elegance • Self-Care</p>
 </header>
 
@@ -21,7 +21,7 @@
 </nav>
 
 <section class="hero">
-    <h2>Welcome to Glamour Nails Studio</h2>
+    <h2>Welcome to Charms Nails Studio</h2>
     <p>Your perfect destination for luxury nail care in Surrey/Vancouver</p>
     <a class="btn" href="#contact">Book Appointment</a>
 </section>
@@ -66,7 +66,7 @@
 </section>
 
 <footer>
-    <p>© 2026 Glamour Nails Studio. All rights reserved.</p>
+    <p>© Charms Nails Studio. All rights reserved.</p>
 </footer>
 
 </body>
